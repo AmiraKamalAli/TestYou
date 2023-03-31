@@ -15,7 +15,7 @@ mvn clean test
 
 #right click on testNg and run as TestNg
 
-![image](https://user-images.githubusercontent.com/128251609/229051348-011c8a89-b4ff-4214-9308-f166969ebe1b.png)
+![image](https://user-images.githubusercontent.com/128251609/229052345-26b19ef0-f609-4899-98ce-b9b922e90c5e.png)
 
 
 
